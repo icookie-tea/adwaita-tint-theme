@@ -1,0 +1,36 @@
+@import url("resource:///org/gnome/theme/gnome-shell.css");
+
+.modal-dialog,
+.screenshot-ui-panel,
+.popup-menu-content {
+    border-radius: 16px;
+}
+
+.overview-tile,
+.grid-search-result,
+.search-section-content,
+.app-folder,
+.app-folder-dialog {
+    border-radius: 16px;
+}
+
+.quick-toggle-menu {
+  border-radius: 16px;
+}
+
+.workspace-thumbnail-indicator {
+  border-radius: 6px; 
+}
+
+#dash .dash-background {
+  padding: 6px;
+  border-radius: 16px;
+}
+
+#dash .app-grid-running-dot { 
+  offset-y: -6px !important; 
+}
+
+#dash .overview-icon {
+  border-radius: 14px;
+}
