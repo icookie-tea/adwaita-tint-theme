@@ -6,6 +6,10 @@
     border-radius: 16px;
 }
 
+.message {
+    border-radius: 12px !important;
+}
+
 .overview-tile,
 .grid-search-result,
 .search-section-content,
@@ -15,22 +19,22 @@
 }
 
 .quick-toggle-menu {
-  border-radius: 16px;
+    border-radius: 16px;
 }
 
 .workspace-thumbnail-indicator {
-  border-radius: 6px; 
+    border-radius: 6px; 
 }
 
 #dash .dash-background {
-  padding: 6px;
-  border-radius: 16px;
+    padding: 6px;
+    border-radius: 16px;
 }
 
 #dash .app-grid-running-dot { 
-  offset-y: -6px !important; 
+    offset-y: -6px !important; 
 }
 
 #dash .overview-icon {
-  border-radius: 14px;
+    border-radius: 14px;
 }
